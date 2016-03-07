@@ -1,0 +1,12 @@
+Solution for the puzzle is ==> 
+
+. . x y 
+
+. x . y 
+
+. x y . 
+
+x . y . 
+
+x y . . 
+
